@@ -1,19 +1,16 @@
 # Numerical PDE Solver with Adaptive Mesh
 
-Work-in-progress project. Goal: build a Python solver for 1D PDEs (advection–diffusion, Black–Scholes) using finite differences, then extend it with an adaptive moving mesh (r-adaptation).
+This project aims to develop a Python-based solver for one-dimensional partial differential equations using finite difference methods. The initial implementation will use a uniform grid, followed by an extension to an adaptive moving mesh (r-adaptation) to improve accuracy and efficiency. 
 
-## Plan
+## Objectives
+1. Implement a finite difference solver on a uniform mesh (explicit and implicit schemes).
+2. Validate the solver on the advection–diffusion equation.
+3. Incorporate an adaptive moving mesh using monitor functions and the equidistribution principle.
+4. Demonstrate the approach on financial models such as the Black–Scholes equation.
 
-- Step 1: fixed uniform grid solver (explicit and implicit schemes)
-- Step 2: validate with advection–diffusion equation
-- Step 3: add adaptive moving mesh (monitor + equidistribution)
-- Step 4: demo on option pricing (Black–Scholes)
-
-## Status
-
-Nothing implemented yet. This repo will track progress.
+## Current Status
+The project is in the planning stage. Implementation has not yet started.
 
 ## References
-
-- Huang & Russell, _Adaptive Moving Mesh Methods_
-- Standard PDE numerics (finite differences, CFL stability)
+- W. Huang and R. D. Russell, *Adaptive Moving Mesh Methods*. Springer, 2011.
+- Standard references on finite difference methods and numerical stability.
