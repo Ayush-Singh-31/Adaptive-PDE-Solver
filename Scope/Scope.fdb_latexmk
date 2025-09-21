@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1758442290.20472 "/Users/ayush/Documents/Coding/Projects/Adaptive PDE Solver/Scope/Scope.tex" "Scope.pdf" "Scope" 1758442290.8003 0
-  "/Users/ayush/Documents/Coding/Projects/Adaptive PDE Solver/Scope/Scope.tex" 1758442289.37951 25357 63c34afca1641f25ca4d86fe69279271 ""
+["pdflatex"] 1758443965.22393 "/Users/ayush/Documents/Coding/Projects/Adaptive PDE Solver/Scope/Scope.tex" "Scope.pdf" "Scope" 1758443965.86388 0
+  "/Users/ayush/Documents/Coding/Projects/Adaptive PDE Solver/Scope/Scope.tex" 1758443965.03235 25358 de3cf7b9f226575c4ec9fbd757aa1c38 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/noto/a_wcjgjy.enc" 1630962597 2864 74e96fe61cd478c270a005253f03d4c7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587936753 3267 177411e539fcc6ace86309ff03b22da6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/sourceserifpro/a_5mjl2d.enc" 1536266730 2996 4eac4f75d003875749efc5dde4ee7502 ""
@@ -140,9 +140,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1737878027.57743 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1737878010 8221423 062e3f1ee0f34e8514e34724848c10db ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Scope.aux" 1758442290.72319 896 c424c9d1eaaae25d289589a0b1e34247 "pdflatex"
-  "Scope.out" 1758442290.72372 1002 eda50f537e41ecdd293c2971bf16b985 "pdflatex"
-  "Scope.tex" 1758442289.37951 25357 63c34afca1641f25ca4d86fe69279271 ""
+  "Scope.aux" 1758443965.77995 896 c424c9d1eaaae25d289589a0b1e34247 "pdflatex"
+  "Scope.out" 1758443965.7803 1002 eda50f537e41ecdd293c2971bf16b985 "pdflatex"
+  "Scope.tex" 1758443965.03235 25358 de3cf7b9f226575c4ec9fbd757aa1c38 ""
   "adonis.cls" 1758375226.72681 6924 4b0ef0e72b2fce8ab75cd973ffd1f139 ""
   (generated)
   "Scope.aux"
